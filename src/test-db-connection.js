@@ -1,11 +1,12 @@
 const pool = require('./config/db');
+const winston = require('winston');
 
 (async () => {
     try {
         const res = await pool.query('SELECT NOW()');
-        console.log('Database connected:', res.rows[0]);
+        winston.info('Database connected:', res.rows[0]);
     } catch (err) {
-        console.error('Error connecting to the database:', err);
+        winston.error('Error connecting to the database:', err);
     } finally {
         await pool.end();
     }

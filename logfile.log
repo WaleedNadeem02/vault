@@ -1,0 +1,195 @@
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1248","message":"syntax error at or near \"SELEC\" syntax error at or near \"SELEC\"","name":"error","position":"10","routine":"scanner_yyerror","severity":"ERROR","stack":"error: syntax error at or near \"SELEC\"\n    at C:\\Users\\HP\\Desktop\\vault\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async getUserDirectories (C:\\Users\\HP\\Desktop\\vault\\src\\services\\directoryService.js:41:20)\n    at async C:\\Users\\HP\\Desktop\\vault\\src\\routes\\workingDirectory.js:32:20\n    at async C:\\Users\\HP\\Desktop\\vault\\src\\middlewares\\async.js:4:9"}
+{"level":"info","message":"Received folder path: C:/Users/HP/Desktop/Directory from user 3"}
+{"level":"error","message":"Cannot create property 'Symbol(level)' on string 'Received folder path: C:/Users/HP/Desktop/Directory from user 3' Cannot create property 'Symbol(level)' on string 'Received folder path: C:/Users/HP/Desktop/Directory from user 3'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Received folder path: C:/Users/HP/Desktop/Directory from user 3'\n    at DerivedLogger.log (C:\\Users\\HP\\Desktop\\vault\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at exports.<computed> [as log] (C:\\Users\\HP\\Desktop\\vault\\node_modules\\winston\\lib\\winston.js:110:68)\n    at C:\\Users\\HP\\Desktop\\vault\\src\\routes\\workingDirectory.js:19:13\n    at C:\\Users\\HP\\Desktop\\vault\\src\\middlewares\\async.js:4:15\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\Desktop\\vault\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\Desktop\\vault\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports (C:\\Users\\HP\\Desktop\\vault\\src\\middlewares\\auth.js:11:9)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\Desktop\\vault\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\Desktop\\vault\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\HP\\Desktop\\vault\\node_modules\\express\\lib\\router\\route.js:119:3)"}
+{"level":"info","message":"Received folder path: C:/Users/HP/Desktop/Directory from user 3"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3009"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:4000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Contructed URL:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Contructed URL:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"level":"info","message":"\"DB\", db"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"level":"info","message":"DB\", db"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"level":"info","message":"DB: db"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"level":"info","message":"DB: [object Object]"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: "}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"\"Password: \",password"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"\"Password: \",password}"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"\"Password: \",}password}"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"\"Password: \",530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"\"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Port: "}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Password: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: jwt_secret"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":5432,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":0,"username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:0/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"PORT: 3000"}
+{"level":"info","message":"Password: 530f4nii"}
+{"host":"localhost","level":"info","message":"DB","name":"vault","password":"530f4nii","port":"5432","username":"postgres"}
+{"level":"info","message":"Constructed URL: postgres://postgres:530f4nii@localhost:5432/vault"}
+{"level":"info","message":"JWT SECRET: ce36d2cf973e5183357fe73ac784fc6a91548226b1c8177e1cecb328f68dbc778808e244bf2e5969781fd422856c72cc45a90cc7b277ba864b8699e76ed9ad6a"}
+{"level":"info","message":"Server is running on http://localhost:3000"}

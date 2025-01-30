@@ -1,30 +1,35 @@
 const express = require('express');
-require('dotenv').config();
+const winston = require('winston');
+const config = require('config');
+const logging = require('./startups/logging');
+const routes = require('./startups/routes');
+
 const app = express();
-const authRoutes = require('./routes/auth');
-const workingDirectoryRoute = require('./routes/workingDirectory');
+logging();
+routes(app);
 
-// Middleware
-app.use(express.json());
 
-// Routes
 app.get('/', (req, res) => {
     res.status(200).send('Decentralized File Vault API is running.');
 });
 
-app.use('/auth', authRoutes);
-app.use('/users', workingDirectoryRoute);
+const PORT = config.get("app.PORT");
+winston.info(`PORT: ${PORT}`);
 
-// Error Handling Middleware
-app.use((err, req, res, next) => {
-    console.error(err.stack);
-    res.status(500).send('Something went wrong!');
-});
+const password = config.get("db.password");
+winston.info(`Password: ${password}`);
 
-const PORT = process.env.PORT || 3000;
+const db = config.get("db");
+winston.info("DB", db);
+
+const dbUrl = `postgres://${db.username}:${db.password}@${db.host}:${db.port}/${db.name}`;
+winston.info(`Constructed URL: ${dbUrl}`);
+
+const jwt_secret = config.get("JWT_SECRET");
+winston.info(`JWT SECRET: ${jwt_secret}`);
 
 app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
+    winston.info(`Server is running on http://localhost:${PORT}`);
 });
 
 

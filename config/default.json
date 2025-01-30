@@ -1,0 +1,17 @@
+{
+    "api": {
+      "pagesize": 20
+    },
+    "app": {
+      "PORT": 3000
+    },
+    "db": {
+      "username": "",
+      "password": "",
+      "host": "",
+      "port": 0,
+      "name": ""
+    },
+    "JWT_SECRET": ""
+}
+  
