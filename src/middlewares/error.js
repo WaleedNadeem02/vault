@@ -1,6 +1,7 @@
 const winston = require('winston');
+const { StatusCodes } = require("http-status-codes");
 
 module.exports = function (err, req, res, next) {
   winston.error(err.message, err);
-  res.status(500).send({ message: 'Something failed.' });
+  res.status(StatusCodes.INTERNAL_SERVER_ERROR).send({ message: 'Something failed.' });
 };
